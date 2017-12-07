@@ -5,40 +5,40 @@
 [Settings]
 
 # www address for getting the data
-URL = http://www.nordpoolspot.com/api/marketdata/page/35?currency=,,EUR,EUR
+URL = http://www.NOrdpoolspot.com/api/marketdata/page/35?currency=,,EUR,EUR
 
 # Name and path of the output file
 OutputFile = hours.txt
 
 # Output file type, options: p = prices, l = levels
-OutputType = p
+OutputType = l
 
 
 #Level values/commands, 'atw' +register + value (the command being sent), level1 for the highest price
-Level1 = True
-Level2 = True
-Level3 = True
-Level4 = True
-Level5 = True
-Level6 = False
-Level7 = False
-Level8 = False
-Level9 = False
-Level10 = False
-Level11 = False
-Level12 = False
-Level13 = False
-Level14 = False
-Level15 = False
-Level16 = False
-Level17 = False
-Level18 = False
-Level19 = False
-Level20 = False
-Level21 = False
-Level22 = False
-Level23 = False
-Level24 = False
+Level1 = "NO"
+Level2 = "NO"
+Level3 = "NO"
+Level4 = "NO"
+Level5 = "NO"
+Level6 = "NO"
+Level7 = "NO"
+Level8 = "NO"
+Level9 = "NO"
+Level10 = "NO"
+Level11 = "NO"
+Level12 = "NO"
+Level13 = "NO"
+Level14 = "NO"
+Level15 = "NO"
+Level16 = "NO"
+Level17 = "NO"
+Level18 = "YES"
+Level19 = "YES"
+Level20 = "YES"
+Level21 = "YES"
+Level22 = "YES"
+Level23 = "YES"
+Level24 = "YES"
 
 
 #Logging on/off
